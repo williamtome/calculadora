@@ -12,6 +12,9 @@ Este projeto foi desenvolvido com a intenção de aprender JavaScript, criando e
 * CSS3
 * JavaScript Vanilla
 
+## Melhorias à fazer
+[] Mostrar no display da calculadora os números e as operações feitas.
+
 ## Autor
 **William Weirich Tomé**
 
